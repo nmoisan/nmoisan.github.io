@@ -1,2 +1,2 @@
-# nmoisan.github.io
-Nick Moisan Portfolio
+# Nick Moisan Personal Development Portfolio
+
